@@ -37,7 +37,6 @@ Aspiring Devops Engineer
 
 ### Socials
 
-</br>
 <p align="left"> <a href="https://www.github.com/Aaketk17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/athavantheivam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@athavantheivendram" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/14580983/athavan-t" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 </br>
 
@@ -45,7 +44,6 @@ Aspiring Devops Engineer
 
 </br>
 <b>My GitHub Stats</b>
-</br>
 
 <a href="http://www.github.com/Aaketk17"><img src="https://github-readme-stats.vercel.app/api?username=Aaketk17&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="Aaketk17's GitHub stats" /></a>
 
