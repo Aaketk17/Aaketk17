@@ -7,9 +7,13 @@
 Aspiring Devops Engineer
 
 * 🌍  I'm based in Sri Lanka
+
 * ✉️   You can contact me at [athavantheivendram@gmail.com](mailto:athavantheivendram@gmail.com)
+
 * 🤔  I’m looking for help with AWS
+
 * 🌱  I'm learning Golang, Kubernetes, Azure
+
 * ⚡   Fun fact: Photographer and Basketball player 🏀
 </br>
 
