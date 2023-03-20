@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Athavan</h1>
-<h3 align="center">Software Engieer | Serverless | AWS | Nodejs | ReactJS </h3>
+<h3 align="center">Software Engieer   |   Serverless   |   AWS   |   Nodejs   |   ReactJS </h3>
 
 </br>
 
