@@ -49,7 +49,7 @@
 </p>
 </br>
 
-### Badges
+<!-- ### Badges
 
 <b>My GitHub Stats</b>
 </br>
@@ -71,3 +71,4 @@
     </td>
   </tr>
 </table>
+ -->
