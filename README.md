@@ -49,7 +49,8 @@ Aspiring Devops Engineer
   <tr>
     <td>
       <a href="http://www.github.com/Aaketk17"><img src="https://github-readme-stats.vercel.app/api?username=Aaketk17&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="Aaketk17's GitHub stats" /></a>
-      
+    </td>
+    <td>
       <a href="http://www.github.com/Aaketk17"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaketk17&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
     <td>
