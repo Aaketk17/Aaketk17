@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Athavan</h1>
-<h3 align="center">Aspiring Devops Engineer &nbsp;&nbsp;| &nbsp;&nbsp; AWS &nbsp;&nbsp;|&nbsp;&nbsp; Serverless&nbsp;&nbsp; |&nbsp;&nbsp; Cloud&nbsp;&nbsp; | &nbsp;&nbsp; ReactJS &nbsp;&nbsp;|&nbsp;&nbsp; Nodejs&nbsp;&nbsp;|&nbsp;&nbsp; Elasticsearch</h3>
+<h3 align="center">Aspiring Devops Engineer &nbsp;&nbsp;| &nbsp;&nbsp; AWS &nbsp;&nbsp;|&nbsp;&nbsp; Serverless&nbsp;&nbsp; |&nbsp;&nbsp; Cloud &nbsp;&nbsp; | &nbsp;&nbsp; ReactJS &nbsp;&nbsp; | &nbsp;&nbsp; Golang &nbsp;&nbsp; | &nbsp;&nbsp; Nodejs &nbsp;&nbsp;|&nbsp;&nbsp; Elasticsearch</h3>
 
 </br>
 
@@ -9,7 +9,7 @@
 
 * 🤝  Ready to help with AWS, Serverless
 
-* 🌱  I'm learning Golang, Kubernetes, Azure
+* 🌱  I'm learning Fast API, Kubernetes, Azure
 
 * ⚡   Extra fact: Photographer and Basketball player 🏀
 
