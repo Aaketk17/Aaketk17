@@ -9,7 +9,7 @@
 
 * 🤝  Ready to help with AWS, Serverless
 
-* 🌱  I'm learning Fast API, Kubernetes, Azure
+* 🌱  I'm learning Blockchain Development, Kubernetes, Azure
 
 * ⚡   Extra fact: Photographer and Basketball player 🏀
 
