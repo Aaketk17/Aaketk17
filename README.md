@@ -9,7 +9,7 @@
 
 * 🤝  Ready to help with AWS, Serverless
 
-* 🌱  I'm learning Rust, Kubernetes, Azure
+* 🌱  I'm learning Kubernetes, Azure
 
 * ⚡   Extra fact: Photographer and Basketball player 🏀
 
